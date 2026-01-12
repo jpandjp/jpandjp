@@ -1,17 +1,20 @@
 ****## Hi there 👋
 
-<!--
-**jpandjp/jpandjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm jpandjp</h1>
+<h3 align="center">sad but trying :/</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **studying ig**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-****
+- 🌱 I’m currently learning **too many things at once**
+
+- 👯 I’m looking to collaborate on **nothing**
+
+- 🤝 I’m looking for help with **life in general**
+
+- 💬 Ask me about **also nothing, pls :3**
+
+- 📫 How to reach me **don't**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
