@@ -1,4 +1,4 @@
-****## Hi there 👋
+****## Hi there 👋****
 
 <h1 align="center">Hi 👋, I'm jpandjp</h1>
 <h3 align="center">sad but trying :/</h3>
